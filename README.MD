@@ -21,7 +21,7 @@ Este projeto é uma API RESTful para gerenciar livros usando FastAPI e Supabase.
 1. Clone o repositório:
 
    ```shell
-   git clone https://github.com/seu-nome-de-usuario/books-api.git
+   git clone https://github.com/antonio-prestes/FastAPI-Books
 
 2.  Instale as dependências:
     
